@@ -18,7 +18,6 @@
 		<a href="assessment2.html">Assessment 2</a>
 		<a href="assessment3.html">Assessment 3</a>
 	</nav>
-	</div>
 
 	</header>
 	<div class="banner-area">
@@ -27,18 +26,11 @@
 	<div class="content-area">
 		<div class="wrapper">
 		</div>
-		<style>
-			h2{
-
-			}
-		</style>
+		
 			<h2>Welcome to my website, there are five pages in this website where you can learn more about myself and my asessments one, two and three.</h2>
-			<p></p>
 
 
 		</div>
 	</div>
-
-
 </body>
 </html>
